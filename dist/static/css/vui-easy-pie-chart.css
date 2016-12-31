@@ -1,0 +1,19 @@
+/*!
+ * VueEasyPieChart v1.0.0 (https://github.com/dotnetage/vue-easy-pie-chart)
+ * (c) 2016 Ray
+ * Released under the MIT License.
+ */
+
+.vue-easy-pie-chart[data-v-8087077e] {
+  position: relative;
+  text-align: center;
+}
+.vue-easy-pie-chart .inner-text[data-v-8087077e] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  display: block;
+}
