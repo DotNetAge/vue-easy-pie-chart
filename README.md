@@ -4,8 +4,9 @@
 
 ## Install
 
-  $ npm i vue-easy-pie-chart -D
-  
+```
+$ npm i vue-easy-pie-chart -D
+```
 
 ## Using in Vue
 
@@ -39,7 +40,9 @@
 
 Clone this repository to your local and run the following command to start the playground 
 
-  $ npm run dev
+```
+$ npm run dev
+```
   
   
 ![Playground](playground.png)
