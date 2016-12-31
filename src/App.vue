@@ -97,7 +97,9 @@
 </template>
 
 <script>
-  import VueEasyPieChart from './VueEasyPieChart'
+  //import VueEasyPieChart from './VueEasyPieChart'
+  import VueEasyPieChart from '../dist/vui-easy-pie-chart.common'
+  import '../dist/vui-easy-pie-chart.css'
   import 'uikit/dist/css/uikit.css'
   import 'uikit/dist/css/uikit.almost-flat.css'
   export default {

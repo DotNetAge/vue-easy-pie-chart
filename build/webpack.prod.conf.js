@@ -18,7 +18,7 @@ var baseWebpackConfig = merge(require('./webpack.base.conf'), {
     jquery: 'jquery'
   },
   module: {
-    loaders: utils.styleLoaders({sourceMap: config.build.productionSourceMap, extract: true})
+    loaders: utils.styleLoaders({sourceMap: config.build.productionSourceMap, extract: false})
   },
   vue: {
     loaders: utils.cssLoaders({
