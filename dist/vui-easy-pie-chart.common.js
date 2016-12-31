@@ -1,5 +1,5 @@
 /*!
- * VueEasyPieChart v1.0.0 (https://github.com/dotnetage/vue-easy-pie-chart)
+ * VueEasyPieChart v1.0.1 (https://github.com/dotnetage/vue-easy-pie-chart)
  * (c) 2016 Ray
  * Released under the MIT License.
  */
@@ -88,10 +88,6 @@ module.exports =
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
-
-	var _jquery = __webpack_require__(5);
-
-	var _jquery2 = _interopRequireDefault(_jquery);
 
 	var _easyPieChart = __webpack_require__(2);
 
@@ -575,12 +571,6 @@ module.exports =
 	    })
 	  }, [_vm._t("default", [_vm._v("\n      " + _vm._s(_vm.percent) + "%\n    ")])], 2)])
 	},staticRenderFns: []}
-
-/***/ },
-/* 5 */
-/***/ function(module, exports) {
-
-	module.exports = require("jquery");
 
 /***/ }
 /******/ ]);

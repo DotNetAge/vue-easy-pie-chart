@@ -18,7 +18,7 @@ $ npm i vue-easy-pie-chart -D
 </template>
 <script>
   import VueEasyPieChart from 'vue-easy-pie-chart'
-  import 'vue-easy-pie-chart/dist/static/css/vue-easy-pie-chart.css'
+  import 'vue-easy-pie-chart/dist/vue-easy-pie-chart.css'
   
   export default {
       components:{ VueEasyPieChart }

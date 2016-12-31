@@ -27,7 +27,7 @@
   }
 </style>
 <script>
-  import $ from 'jquery'
+  // import $ from 'jquery'
   import EasyPieChart from 'easy-pie-chart'
 
   export default {
