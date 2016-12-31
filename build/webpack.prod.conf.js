@@ -11,7 +11,7 @@ var env = process.env.NODE_ENV === 'testing'
 
 var baseWebpackConfig = merge(require('./webpack.base.conf'), {
   entry: {
-    'vui-easy-pie-chart': './src/VueEasyPieChart.vue'
+    'vue-easy-pie-chart': './src/VueEasyPieChart.vue'
   },
   externals: {
     vue: 'vue',

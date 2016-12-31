@@ -1,5 +1,5 @@
 /*!
- * VueEasyPieChart v1.0.1 (https://github.com/dotnetage/vue-easy-pie-chart)
+ * VueEasyPieChart v1.0.2 (https://github.com/dotnetage/vue-easy-pie-chart)
  * (c) 2016 Ray
  * Released under the MIT License.
  */
