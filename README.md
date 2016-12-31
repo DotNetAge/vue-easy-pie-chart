@@ -1,6 +1,6 @@
 # vue-easy-pie-chart
 
-> With full power of easy-pie-chart for Vue
+easy-pie-chart with all power of Vue2.
 
 ## Install
 
