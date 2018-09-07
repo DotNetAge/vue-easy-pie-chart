@@ -47,18 +47,45 @@
         default: "20px"
       },
       trackColor: {
-        type: String,
+        type: [String, Boolean],
         default: "#f2f2f2"
       },
-      scaleColor: {type: String, default: "#dfe0e0"},
-      scaleLength: {type: Number, default: 5},
-      lineCap: {type: String, default: 'round'},
-      lineWidth: {type: Number, default: 3},
-      size: {type: Number, default: 110},
-      rotate: {type: Number, default: 0},
-      duration: {type: Number, default: 1000},
-      animated: {type: Boolean, default: true},
-      percent: {type: Number, default: 0}
+      scaleColor: {
+        type: [String, Boolean],
+        default: "#dfe0e0"
+      },
+      scaleLength: {
+        type: Number,
+        default: 5
+      },
+      lineCap: {
+        type: String,
+        default: 'round'
+      },
+      lineWidth: {
+        type: Number,
+        default: 3
+      },
+      size: {
+        type: Number,
+        default: 110
+      },
+      rotate: {
+        type: Number,
+        default: 0
+      },
+      duration: {
+        type: Number,
+        default: 1000
+      },
+      animated: {
+        type: Boolean,
+        default: true
+      },
+      percent: {
+        type: Number,
+        default: 0
+      }
     },
     watch: {
       percent(val) {
