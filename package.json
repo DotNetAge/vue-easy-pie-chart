@@ -1,6 +1,6 @@
 {
   "name": "vue-easy-pie-chart",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "easy-pie-chart with all power of Vue2",
   "author": "Ray <csharp2002@hotmail.com>",
   "scripts": {
@@ -10,8 +10,7 @@
     "test": "npm run unit"
   },
   "dependencies": {
-    "vue": "^2.1.0",
-    "jquery": "^3.1.1"
+    "vue": "^2.1.0"
   },
   "keywords": [
     "library",
